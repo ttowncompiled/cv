@@ -4,6 +4,9 @@ Latest version of my CV, typesetted in Helvetica and using colors inspired by Mo
 Uses TikZ for the header, XeTeX and fontspec to use Helvetica Neue, biblatex to print my publications and textpos for the aside.
 
 
+# Usage
+To update CV, use `xelatex resume.tex`. This process requires the XITS Math font, the Ubuntu font, the xparse LaTeX package, and the unicode-math LaTeX package. If errors are encountered, these files may need to be updated.
+
 # License
 
 Copyright (C) 2012, Adrien Friggeri
